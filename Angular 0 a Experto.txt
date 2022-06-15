@@ -1,0 +1,6 @@
+Seccion 1 (Introduccion) - Terminada
+
+Seccion 2 (Conceptos generales para empezar con Angular y TypeScript) - Terminado
+
+Seccion 3 (Base de TypeScript) - Empezado
+	22. Importaciones y exportaciones
